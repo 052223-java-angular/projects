@@ -2,7 +2,11 @@
 
 Welcome to the Project Repository! This repository contains two pair programming projects: P1 and P2. These projects are designed to help you practice your Java, Spring Boot, Angular, and AWS skills through collaborative programming.
 
-## Pair Programming Projects
+### Pair Programming Project: Java eCommerce CLI Project
+
+The pair programming project is a Java eCommerce CLI project written in Java 17. It utilizes PostgreSQL, Maven, JUnit, and other relevant technologies. The project aims to build a command-line interface application for an eCommerce system. It includes features such as user registration, product browsing and searching, and shopping cart management.
+
+To get started with the pair programming project, please navigate to the <a href="https://github.com/052223-java-angular/p0">P0</a> directory and follow the instructions provided in the project's README file.
 
 ### Project P1: Full Stack Application
 
