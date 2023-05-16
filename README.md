@@ -34,10 +34,9 @@ To begin working on Project P2, please navigate to the [P2](p2/) directory and f
 
 To get started with the projects, follow these steps:
 
-1. Clone the repository to your local machine using the following command:
-git clone https://github.com/your-username/project-repo.git
+1. Clone the Project Tempalate repository to your local machine.
 
-2. Choose the project (P1 or P2) you'd like to work on and navigate to the respective project directory.
+2. Choose the project (PP, P1 or P2) you'd like to work on and navigate to the respective project directory.
 
 3. Read the project's README file for specific instructions, requirements, and setup steps.
 
