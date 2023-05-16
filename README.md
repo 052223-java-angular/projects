@@ -34,13 +34,17 @@ To begin working on Project P2, please navigate to the [P2](p2/) directory and f
 
 To get started with the projects, follow these steps:
 
-1. Clone the Project Tempalate repository to your local machine.
+1. Click on the **[Use this template](https://github.com/0552223-java-angular/Project-Template/generate)** button to create a new repository based on the Project Template repository. Make sure the owner is set to `0552223-java-angular`.
 
-2. Choose the project (PP, P1 or P2) you'd like to work on and navigate to the respective project directory.
+2. Clone the Project Template repository to your local machine using the following command:
 
-3. Read the project's README file for specific instructions, requirements, and setup steps.
+git clone https://github.com/0552223-java-angular/your-project-repo.git
 
-4. Collaborate with your programming partner and start working on the project together!
+3. Choose the project (PP, P1, or P2) you'd like to work on and navigate to the respective project directory.
+
+4. Read the project's README file for specific instructions, requirements, and setup steps.
+
+5. Collaborate with your programming partner and start working on the project together!
 
 ## Contributing
 
